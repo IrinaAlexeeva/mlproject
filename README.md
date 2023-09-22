@@ -11,15 +11,27 @@ The data consists of 8 column and 1000 rows.
 ## Model
 Regression model
 
-## AWS Deployment usin CICD pipelines
-Docker, Github, AWS
+## Deployments
+1. Create Prediction Pipeline Using Flask Web APP
+   - Github Workflow
+   - app.py
 
-1. Docker Build 
-2. Github Workflow
-3. Iam User in AWS
-4. S3 bucket in AWS
-5. Elastic Beanstalk in AWS
-6. CodePipeline in AWS
+2. Elastic Beanstalk in AWS
+   - .ebextensions -> python.config
+   - application.py
+   - Elastic Beanstalk AWS
+   - 
+
+   
+  
+
+
+3. ECR and EC2 in AWS
+5. 
+6. Iam User in AWS
+7. S3 bucket in AWS
+9. Elastic container in AWS
+10. CodePipeline in AWS
 
 
 
