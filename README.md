@@ -20,18 +20,17 @@ Regression model
    - .ebextensions -> python.config
    - application.py
    - Elastic Beanstalk AWS
-   - 
-
-   
   
-
+![Beanstalk](https://github.com/IrinaAlexeeva/mlproject/assets/144224513/1f1f560b-e786-4430-9a28-fe97c9a10b42)
 
 3. ECR and EC2 in AWS
-5. 
-6. Iam User in AWS
-7. S3 bucket in AWS
-9. Elastic container in AWS
-10. CodePipeline in AWS
+   - Docker Build
+   - .github\workflow -> main.yaml
+   - IAM User in AWS
+   - ECR repository
+   - EC2 virtual server
+   - secret keys 
+
 
 
 
